@@ -26,8 +26,7 @@ A secure and straightforward user authentication system built using **Node.js**,
 ### 📝 Registration Page
 ![Register Screenshot](<Screenshot 2025-06-10 112002.png>)
 
-### 🙍‍♂️ Profile Page
-![Profile Screenshot](<Screenshot 2025-06-10 112037.png>)
+
 
 ---
 
