@@ -1,0 +1,6 @@
+.env
+node_modules/
+.env
+.DS_Store
+*.log
+MONGO_URI=mongodb+srv://Saurabh91tech:Singhsaurabh%40912299342@cluster0.rtgbpxs.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
