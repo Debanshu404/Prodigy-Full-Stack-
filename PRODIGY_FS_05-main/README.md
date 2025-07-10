@@ -62,14 +62,7 @@ Backend protects API routes with auth.js middleware
 
 Logout simply clears the JWT from client storage  
 
-# 📸 Screenshots 
-## 🔐 Signup Page  
-![](https://github.com/Saurabh9122-tech/PRODIGY_FS_05/blob/main/Screenshot%202025-07-01%20185047.png)  
-## 🔐 Login Page  
-![](https://github.com/Saurabh9122-tech/PRODIGY_FS_05/blob/main/Screenshot%202025-07-01%20185035.png)  
-## 💬 Home Page  
-![](https://github.com/Saurabh9122-tech/PRODIGY_FS_05/blob/main/Screenshot%202025-07-01%20185121.png)
-![](https://github.com/Saurabh9122-tech/PRODIGY_FS_05/blob/main/Screenshot%202025-07-01%20185146.png)
+
 
 # 📸 Post Types
 Users can post:  
