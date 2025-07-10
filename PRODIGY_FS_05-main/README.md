@@ -61,10 +61,7 @@ JWT-based login with persistent localStorage
 Backend protects API routes with auth.js middleware  
 
 Logout simply clears the JWT from client storage  
-# 🎥 Demo Video
-  [![Watch Demo](https://img.youtube.com/vi/igm1Lz7w-EE/0.jpg)](https://youtu.be/igm1Lz7w-EE)  
 
-📺 [Click here to watch on YouTube »](https://youtu.be/igm1Lz7w-EE)  
 # 📸 Screenshots 
 ## 🔐 Signup Page  
 ![](https://github.com/Saurabh9122-tech/PRODIGY_FS_05/blob/main/Screenshot%202025-07-01%20185047.png)  
@@ -120,14 +117,5 @@ Want to take it further? Try adding:
 
 🎨 Design upgrades with Tailwind or Bootstrap  
 
- # 🧑‍💻 Author 
-Built By **Saurabh kumar** with Prodigy infotech as part of PRODIGY_FS_05 Task — focused on clarity, function, and extensibility.
-# 👨‍💻 About  
-#### Linkdin
-[Saurabh kunar](https://www.linkedin.com/in/saurabh-kumar-9999s)
-#### Youtube 
-[Click](https://www.youtube.com/channel/UCo6S7_jvZi_V_06co2yCEEA)
 
-# 📜 License  
-This project is open-source and available under the [MIT License.](https://github.com/Saurabh9122-tech/PRODIGY_FS_05?tab=MIT-1-ov-file)  
 
