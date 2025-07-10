@@ -72,7 +72,4 @@ This project is licensed under the [MIT License](https://github.com/Saurabh9122-
 [GeeksforGeeks](https://www.geeksforgeeks.org/?utm_source=Google&utm_medium=Organic&utm_campaign=gmb_listing&utm_id=geeksforgeekspune)   
 **JWT & bcrypt community**  
 
-# **👨‍💻 Developed By**
-[Saurabh Singh](www.linkedin.com/in/saurabh-kumar-9999s)  
-  
-Intern [Prodigy InfoTech](https://www.linkedin.com/company/prodigy-infotech/posts/?feedView=all)   
+
