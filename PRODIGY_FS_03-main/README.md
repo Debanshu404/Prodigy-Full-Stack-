@@ -2,16 +2,6 @@
 
 Welcome to **Local Store** – a clean, simple, and user-friendly local e-commerce web app where shopping meets convenience! Built as part of my internship with **Prodigy InfoTech**, this platform makes it super easy to browse products, manage your cart, checkout with a smile, and track orders in real time.  
 
----
-
-## 🎬 Demo Video  
-
-Check out the working demo of this project in action      
-[![Watch Demo](https://img.youtube.com/vi/NP435pW361M/0.jpg)](https://youtu.be/NP435pW361M)  
-
-📺 [Click here to watch on YouTube »](https://youtu.be/NP435pW361M)  
-
----
 
 ## 💡 Features  
 
@@ -101,11 +91,4 @@ node server.js
 ### **TRACKING**  
 ![](https://github.com/Saurabh9122-tech/PRODIGY_FS_03/blob/main/Screenshot%202025-06-29%20124743.png)  
 ---
-# **🙋‍♂️ About Me**
-Hi! I’m Saurabh Kumar, a web developer intern at Prodigy InfoTech.
-This project is part of my learning journey — building real-world solutions one step at a time.
 
-### **🔗 LinkedIn**
-  [saurabh kumar](www.linkedin.com/in/saurabh-kumar-9999s)   
-# **🔒 License**
-[MIT](https://github.com/Saurabh9122-tech/PRODIGY_FS_03/blob/main/LICENSE)
